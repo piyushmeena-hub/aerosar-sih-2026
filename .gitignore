@@ -24,7 +24,9 @@ dist/
 .idea/
 .DS_Store
 
-# Logs and temporary files
+# Logs and temporary database files
 *.log
+*.db
+database/*.db
 tmp/
 temp/
